@@ -1,0 +1,4 @@
+season_name, element_code, start_cost, end_cost, total_points, minutes, goals_scored, assists, clean_sheets, goals_conceded, own_goals, penalties_saved, penalties_missed, yellow_cards, red_cards, saves, bonus, bps, influence, creativity, threat, ict_index
+2016/17, 182156, 80, 77, 105, 1781, 5, 7, 9, 15, 0, 0, 0, 4, 0, 0, 8, 343, 397.2, 505.1, 632.0, 153.7, 
+2017/18, 182156, 85, 87, 179, 2415, 10, 15, 12, 22, 0, 0, 0, 4, 0, 0, 17, 647, 842.4, 891.3, 1013.0, 274.4, 
+2018/19, 182156, 95, 93, 156, 1857, 10, 12, 9, 14, 0, 0, 0, 1, 0, 0, 13, 520, 716.8, 645.0, 1039.0, 240.3, 

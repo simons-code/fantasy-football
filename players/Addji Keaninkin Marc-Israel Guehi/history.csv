@@ -1,0 +1,4 @@
+element, fixture, opponent_team, total_points, was_home, kickoff_time, team_h_score, team_a_score, round, minutes, goals_scored, assists, clean_sheets, goals_conceded, own_goals, penalties_saved, penalties_missed, yellow_cards, red_cards, saves, bonus, bps, influence, creativity, threat, ict_index, value, transfers_balance, selected, transfers_in, transfers_out
+545, 63, 4, 0, True, 2019-09-28T14:00:00Z, 2, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.0, 0.0, 0.0, 0.0, 40, 0, 0, 0, 0, 
+545, 78, 16, 0, False, 2019-10-06T13:00:00Z, 1, 4, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.0, 0.0, 0.0, 0.0, 40, 947, 1832, 1119, 172, 
+545, 83, 13, 0, True, 2019-10-19T14:00:00Z, 1, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.0, 0.0, 0.0, 0.0, 40, 538, 3076, 883, 345, 
