@@ -45,7 +45,7 @@ def output_player_stats():
               " second_name, selected_by_percent, special, squad_number, status, team, team_code, total_points, transfers_in,"
               " transfers_in_event, transfers_out, transfers_out_event, value_form, value_season, web_name, minutes,"
               " goals_scored, assists, clean_sheets, goals_conceded, own_goals, penalties_saved, penalties_missed,"
-              " yellow_cards, red_cards, saves, bonus, bps, influence, creativity, threat, ict_index\n")
+              " yellow_cards, red_cards, saves, bonus, bps, influence, creativity, threat, ict_index,\n")
         for element in data['elements']:
             for k in keys:
                 out.write(str(element[k]) + ", ")
@@ -85,7 +85,7 @@ def output_player_fixtures():
         player_summary = get_player_summary(id)
         with open(output_file, 'w') as out:
             out.write("code, team_home, team_home_score, team_away, team_away_score, event, finished, minutes,"
-                      " event_name, is_home\n")
+                      " event_name, is_home,\n")
             for el in player_summary['fixtures']:
                 for k in keys:
                     out.write(str(el[k]) + ", ")
@@ -114,7 +114,7 @@ def output_player_history():
             out.write("element, fixture, opponent_team, total_points, was_home, kickoff_time, team_h_score, "
                       "team_a_score, round, minutes, goals_scored, assists, clean_sheets, goals_conceded, own_goals, "
                       "penalties_saved, penalties_missed, yellow_cards, red_cards, saves, bonus, bps, influence, "
-                      "creativity, threat, ict_index, value, transfers_balance, selected, transfers_in, transfers_out\n")
+                      "creativity, threat, ict_index, value, transfers_balance, selected, transfers_in, transfers_out,\n")
             for el in player_summary['history']:
                 for k in keys:
                     out.write(str(el[k]) + ", ")
@@ -138,7 +138,7 @@ def output_player_history_past():
         with open(output_file, 'w') as out:
             out.write("season_name, element_code, start_cost, end_cost, total_points, minutes, goals_scored, assists, "
                       "clean_sheets, goals_conceded, own_goals, penalties_saved, penalties_missed, yellow_cards, "
-                      "red_cards, saves, bonus, bps, influence, creativity, threat, ict_index\n")
+                      "red_cards, saves, bonus, bps, influence, creativity, threat, ict_index,\n")
             for el in player_summary['history_past']:
                 for k in keys:
                     out.write(str(el[k]) + ", ")
