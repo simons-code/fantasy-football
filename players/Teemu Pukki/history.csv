@@ -1,4 +1,4 @@
-element, fixture, opponent_team, total_points, was_home, kickoff_time, team_h_score, team_a_score, round, minutes, goals_scored, assists, clean_sheets, goals_conceded, own_goals, penalties_saved, penalties_missed, yellow_cards, red_cards, saves, bonus, bps, influence, creativity, threat, ict_index, value, transfers_balance, selected, transfers_in, transfers_out
+element, fixture, opponent_team, total_points, was_home, kickoff_time, team_h_score, team_a_score, round, minutes, goals_scored, assists, clean_sheets, goals_conceded, own_goals, penalties_saved, penalties_missed, yellow_cards, red_cards, saves, bonus, bps, influence, creativity, threat, ict_index, value, transfers_balance, selected, transfers_in, transfers_out,
 278, 1, 10, 7, False, 2019-08-09T19:00:00Z, 4, 1, 1, 82, 1, 0, 0, 4, 0, 0, 0, 0, 0, 0, 1, 32, 39.2, 21.2, 41.0, 10.1, 65, 0, 148712, 0, 0, 
 278, 17, 13, 17, True, 2019-08-17T14:00:00Z, 3, 1, 2, 90, 3, 0, 0, 1, 0, 0, 0, 0, 0, 0, 3, 83, 112.4, 12.6, 114.0, 23.9, 66, 176308, 398647, 200717, 24409, 
 278, 26, 6, 11, True, 2019-08-24T11:30:00Z, 2, 3, 3, 90, 1, 1, 0, 3, 0, 0, 0, 0, 0, 0, 2, 39, 52.2, 10.8, 38.0, 10.1, 68, 982350, 1505154, 1030761, 48411, 
@@ -8,3 +8,5 @@ element, fixture, opponent_team, total_points, was_home, kickoff_time, team_h_sc
 278, 64, 7, 2, False, 2019-09-28T14:00:00Z, 2, 0, 7, 90, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 5, 12.4, 33.0, 33.0, 7.8, 72, 50450, 3068465, 171233, 120783, 
 278, 77, 2, 1, True, 2019-10-05T14:00:00Z, 1, 5, 8, 83, 0, 0, 0, 5, 0, 0, 0, 1, 0, 0, 0, 3, 2.4, 31.1, 70.0, 10.4, 72, -29575, 3058138, 113232, 142807, 
 278, 82, 3, 1, False, 2019-10-19T14:00:00Z, 0, 0, 9, 90, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 3.4, 13.8, 26.0, 4.3, 71, -538163, 2514813, 30911, 569074, 
+278, 97, 12, 2, True, 2019-10-27T16:30:00Z, 1, 3, 10, 90, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0.0, 2.3, 16.0, 1.7, 70, -337734, 2195351, 18735, 356469, 
+278, 104, 4, 2, False, 2019-11-02T15:00:00Z, 2, 0, 11, 90, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 6, 3.2, 14.0, 40.0, 5.7, 69, -345764, 1855008, 33703, 379467, 

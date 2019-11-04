@@ -1,8 +1,4 @@
-code, team_home, team_home_score, team_away, team_away_score, event, finished, minutes, event_name, is_home
-1059779, 16, None, 6, None, 8, False, 0, Gameweek 8, False, 
-1059784, 6, None, 13, None, 9, False, 0, Gameweek 9, True, 
-1059794, 5, None, 6, None, 10, False, 0, Gameweek 10, False, 
-1059810, 18, None, 6, None, 11, False, 0, Gameweek 11, False, 
+code, team_home, team_home_score, team_away, team_away_score, event, finished, minutes, event_name, is_home,
 1059813, 6, None, 7, None, 12, False, 0, Gameweek 12, True, 
 1059828, 11, None, 6, None, 13, False, 0, Gameweek 13, False, 
 1059833, 6, None, 19, None, 14, False, 0, Gameweek 14, True, 

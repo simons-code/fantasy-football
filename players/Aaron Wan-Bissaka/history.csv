@@ -1,4 +1,4 @@
-element, fixture, opponent_team, total_points, was_home, kickoff_time, team_h_score, team_a_score, round, minutes, goals_scored, assists, clean_sheets, goals_conceded, own_goals, penalties_saved, penalties_missed, yellow_cards, red_cards, saves, bonus, bps, influence, creativity, threat, ict_index, value, transfers_balance, selected, transfers_in, transfers_out
+element, fixture, opponent_team, total_points, was_home, kickoff_time, team_h_score, team_a_score, round, minutes, goals_scored, assists, clean_sheets, goals_conceded, own_goals, penalties_saved, penalties_missed, yellow_cards, red_cards, saves, bonus, bps, influence, creativity, threat, ict_index, value, transfers_balance, selected, transfers_in, transfers_out,
 122, 9, 6, 8, True, 2019-08-11T15:30:00Z, 4, 0, 1, 90, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 34, 30.4, 16.1, 2.0, 4.9, 55, 0, 1879259, 0, 0, 
 122, 20, 20, 1, False, 2019-08-19T19:00:00Z, 1, 1, 2, 90, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 19, 28.0, 11.0, 5.0, 4.4, 55, 88267, 2177360, 142479, 54212, 
 122, 25, 7, 0, True, 2019-08-24T14:00:00Z, 1, 2, 3, 90, 0, 0, 0, 2, 0, 0, 0, 1, 0, 0, 0, 9, 11.8, 21.1, 2.0, 3.5, 56, 99379, 2349140, 194446, 95067, 
@@ -8,3 +8,5 @@ element, fixture, opponent_team, total_points, was_home, kickoff_time, team_h_sc
 122, 67, 1, 0, True, 2019-09-30T19:00:00Z, 1, 1, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.0, 0.0, 0.0, 0.0, 55, -143055, 1608509, 19950, 163005, 
 122, 76, 13, 0, False, 2019-10-06T15:30:00Z, 1, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.0, 0.0, 0.0, 0.0, 55, -200518, 1407083, 4987, 205505, 
 122, 87, 10, 2, True, 2019-10-20T15:30:00Z, 1, 1, 9, 90, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 12, 12.4, 12.7, 2.0, 2.7, 54, -190053, 1224192, 1413, 191466, 
+122, 97, 14, 1, False, 2019-10-27T16:30:00Z, 1, 3, 10, 90, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 11, 36.0, 4.2, 0.0, 4.0, 54, -10239, 1225533, 22153, 32392, 
+122, 103, 3, 2, False, 2019-11-02T12:30:00Z, 1, 0, 11, 80, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 16, 17.2, 2.8, 0.0, 2.0, 54, -6567, 1223982, 36330, 42897, 

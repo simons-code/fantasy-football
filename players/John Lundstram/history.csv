@@ -1,4 +1,4 @@
-element, fixture, opponent_team, total_points, was_home, kickoff_time, team_h_score, team_a_score, round, minutes, goals_scored, assists, clean_sheets, goals_conceded, own_goals, penalties_saved, penalties_missed, yellow_cards, red_cards, saves, bonus, bps, influence, creativity, threat, ict_index, value, transfers_balance, selected, transfers_in, transfers_out
+element, fixture, opponent_team, total_points, was_home, kickoff_time, team_h_score, team_a_score, round, minutes, goals_scored, assists, clean_sheets, goals_conceded, own_goals, penalties_saved, penalties_missed, yellow_cards, red_cards, saves, bonus, bps, influence, creativity, threat, ict_index, value, transfers_balance, selected, transfers_in, transfers_out,
 297, 2, 3, 3, False, 2019-08-10T14:00:00Z, 1, 1, 1, 77, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 20, 4.8, 27.2, 3.0, 3.5, 40, 0, 410353, 0, 0, 
 297, 18, 7, 14, True, 2019-08-18T13:00:00Z, 1, 0, 2, 90, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 3, 41, 53.4, 18.5, 22.0, 9.4, 40, 48106, 506872, 68004, 19898, 
 297, 27, 9, 0, True, 2019-08-24T14:00:00Z, 1, 2, 3, 90, 0, 0, 0, 2, 0, 0, 0, 1, 0, 0, 0, 4, 3.0, 9.1, 18.0, 3.0, 41, 453880, 1042906, 474635, 20755, 
@@ -8,3 +8,5 @@ element, fixture, opponent_team, total_points, was_home, kickoff_time, team_h_sc
 297, 68, 10, 2, True, 2019-09-28T11:30:00Z, 0, 1, 7, 90, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 11, 11.8, 16.3, 38.0, 6.6, 44, 239489, 1914259, 261842, 22353, 
 297, 79, 18, 5, False, 2019-10-05T14:00:00Z, 0, 0, 8, 90, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 20, 11.0, 27.5, 6.0, 4.5, 45, 181636, 2115148, 194043, 12407, 
 297, 88, 1, 6, True, 2019-10-21T19:00:00Z, 1, 0, 9, 90, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 20, 9.2, 13.4, 2.0, 2.5, 45, 114522, 2234062, 135656, 21134, 
+297, 100, 19, 2, False, 2019-10-26T14:00:00Z, 1, 1, 10, 90, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 5, 11.2, 12.8, 22.0, 4.6, 46, 140829, 2384142, 149713, 8884, 
+297, 108, 5, 21, True, 2019-11-02T15:00:00Z, 3, 0, 11, 90, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 3, 49, 77.8, 15.9, 77.0, 17.1, 47, 142132, 2538506, 159197, 17065, 

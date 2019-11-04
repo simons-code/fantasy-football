@@ -1,4 +1,4 @@
-element, fixture, opponent_team, total_points, was_home, kickoff_time, team_h_score, team_a_score, round, minutes, goals_scored, assists, clean_sheets, goals_conceded, own_goals, penalties_saved, penalties_missed, yellow_cards, red_cards, saves, bonus, bps, influence, creativity, threat, ict_index, value, transfers_balance, selected, transfers_in, transfers_out
+element, fixture, opponent_team, total_points, was_home, kickoff_time, team_h_score, team_a_score, round, minutes, goals_scored, assists, clean_sheets, goals_conceded, own_goals, penalties_saved, penalties_missed, yellow_cards, red_cards, saves, bonus, bps, influence, creativity, threat, ict_index, value, transfers_balance, selected, transfers_in, transfers_out,
 340, 6, 2, 3, True, 2019-08-10T16:30:00Z, 3, 1, 1, 90, 0, 0, 0, 1, 0, 0, 0, 0, 0, 3, 0, 13, 21.4, 0.0, 0.0, 2.1, 55, 0, 514748, 0, 0, 
 340, 16, 11, 3, False, 2019-08-17T16:30:00Z, 2, 2, 2, 90, 0, 0, 0, 2, 0, 0, 0, 0, 0, 8, 0, 28, 56.6, 0.0, 0.0, 5.7, 55, -31914, 538741, 39438, 71352, 
 340, 28, 13, 2, True, 2019-08-25T15:30:00Z, 0, 1, 3, 90, 0, 0, 0, 1, 0, 0, 0, 0, 0, 2, 0, 12, 19.2, 0.0, 0.0, 1.9, 55, 7053, 572671, 43660, 36607, 
@@ -8,3 +8,5 @@ element, fixture, opponent_team, total_points, was_home, kickoff_time, team_h_sc
 340, 69, 16, 3, True, 2019-09-28T14:00:00Z, 2, 1, 7, 90, 0, 0, 0, 1, 0, 0, 0, 0, 0, 5, 0, 17, 25.8, 0.0, 0.0, 2.6, 55, -6852, 597483, 29985, 36837, 
 340, 72, 4, 1, False, 2019-10-05T11:30:00Z, 3, 0, 8, 8, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0.0, 0.0, 0.0, 0.0, 55, -7751, 594211, 15655, 23406, 
 340, 89, 18, 0, True, 2019-10-19T14:00:00Z, 1, 1, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.0, 0.0, 0.0, 0.0, 54, -217501, 372341, 324, 217825, 
+340, 94, 10, 0, False, 2019-10-27T16:30:00Z, 2, 1, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.0, 0.0, 0.0, 0.0, 54, -39544, 338556, 75, 39619, 
+340, 106, 8, 0, False, 2019-11-03T16:30:00Z, 1, 1, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.0, 0.0, 0.0, 0.0, 54, -32690, 306060, 93, 32783, 

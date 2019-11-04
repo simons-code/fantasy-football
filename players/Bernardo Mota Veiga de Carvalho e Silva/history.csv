@@ -1,4 +1,4 @@
-element, fixture, opponent_team, total_points, was_home, kickoff_time, team_h_score, team_a_score, round, minutes, goals_scored, assists, clean_sheets, goals_conceded, own_goals, penalties_saved, penalties_missed, yellow_cards, red_cards, saves, bonus, bps, influence, creativity, threat, ict_index, value, transfers_balance, selected, transfers_in, transfers_out
+element, fixture, opponent_team, total_points, was_home, kickoff_time, team_h_score, team_a_score, round, minutes, goals_scored, assists, clean_sheets, goals_conceded, own_goals, penalties_saved, penalties_missed, yellow_cards, red_cards, saves, bonus, bps, influence, creativity, threat, ict_index, value, transfers_balance, selected, transfers_in, transfers_out,
 218, 8, 19, 0, False, 2019-08-10T11:30:00Z, 0, 5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.0, 0.0, 0.0, 0.0, 80, 0, 1507840, 0, 0, 
 218, 16, 17, 2, True, 2019-08-17T16:30:00Z, 2, 2, 2, 79, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 7, 7.6, 21.4, 91.0, 12.0, 80, -301368, 1276904, 27625, 328993, 
 218, 22, 3, 2, False, 2019-08-25T13:00:00Z, 1, 3, 3, 78, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 15, 7.2, 21.8, 52.0, 8.1, 79, -269444, 1032805, 29458, 298902, 
@@ -8,3 +8,5 @@ element, fixture, opponent_team, total_points, was_home, kickoff_time, team_h_sc
 218, 65, 8, 1, False, 2019-09-28T16:30:00Z, 1, 3, 7, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4.4, 0.3, 0.0, 0.5, 79, 181940, 993928, 214143, 32203, 
 218, 75, 20, 1, True, 2019-10-06T13:00:00Z, 0, 2, 8, 30, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 4, 2.2, 4.9, 26.0, 3.3, 79, 43785, 1041656, 139826, 96041, 
 218, 84, 7, 6, False, 2019-10-19T16:30:00Z, 0, 2, 9, 90, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 29, 37.0, 42.5, 38.0, 11.8, 79, -39880, 1009503, 61125, 101005, 
+218, 95, 2, 3, True, 2019-10-26T11:30:00Z, 3, 0, 10, 90, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 13, 15.4, 47.8, 43.0, 10.6, 79, 2949, 1017840, 42641, 39692, 
+218, 107, 16, 2, True, 2019-11-02T15:00:00Z, 2, 1, 11, 83, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 22, 16.8, 25.1, 35.0, 7.7, 79, -67300, 952052, 24193, 91493, 

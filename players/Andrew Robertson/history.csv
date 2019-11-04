@@ -1,4 +1,4 @@
-element, fixture, opponent_team, total_points, was_home, kickoff_time, team_h_score, team_a_score, round, minutes, goals_scored, assists, clean_sheets, goals_conceded, own_goals, penalties_saved, penalties_missed, yellow_cards, red_cards, saves, bonus, bps, influence, creativity, threat, ict_index, value, transfers_balance, selected, transfers_in, transfers_out
+element, fixture, opponent_team, total_points, was_home, kickoff_time, team_h_score, team_a_score, round, minutes, goals_scored, assists, clean_sheets, goals_conceded, own_goals, penalties_saved, penalties_missed, yellow_cards, red_cards, saves, bonus, bps, influence, creativity, threat, ict_index, value, transfers_balance, selected, transfers_in, transfers_out,
 181, 1, 14, 2, True, 2019-08-09T19:00:00Z, 4, 1, 1, 90, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 15, 12.4, 24.7, 7.0, 4.4, 70, 0, 1889240, 0, 0, 
 181, 19, 16, 2, False, 2019-08-17T14:00:00Z, 1, 2, 2, 90, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 14, 23.8, 18.3, 21.0, 6.3, 70, -128747, 1844951, 22660, 151407, 
 181, 24, 1, 2, True, 2019-08-24T16:30:00Z, 3, 1, 3, 90, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 21, 25.0, 49.8, 37.0, 11.2, 70, -241307, 1626092, 22333, 263640, 
@@ -8,3 +8,5 @@ element, fixture, opponent_team, total_points, was_home, kickoff_time, team_h_sc
 181, 68, 15, 6, False, 2019-09-28T11:30:00Z, 0, 1, 7, 90, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 26, 18.0, 17.0, 3.0, 3.8, 69, -470, 1336086, 57616, 58086, 
 181, 74, 9, 2, True, 2019-10-05T14:00:00Z, 2, 1, 8, 90, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 20, 19.0, 16.9, 21.0, 5.7, 69, 4261, 1347696, 37689, 33428, 
 181, 87, 12, 8, False, 2019-10-20T15:30:00Z, 1, 1, 9, 90, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 3, 32, 40.2, 33.2, 2.0, 7.5, 69, -23734, 1332521, 34739, 58473, 
+181, 94, 17, 2, True, 2019-10-27T16:30:00Z, 2, 1, 10, 90, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 25, 21.8, 32.0, 16.0, 7.0, 69, 23000, 1362420, 56224, 33224, 
+181, 102, 2, 9, False, 2019-11-02T15:00:00Z, 1, 2, 11, 90, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 25, 54.6, 24.1, 35.0, 11.4, 69, 56073, 1433018, 87824, 31751, 

@@ -1,4 +1,4 @@
-element, fixture, opponent_team, total_points, was_home, kickoff_time, team_h_score, team_a_score, round, minutes, goals_scored, assists, clean_sheets, goals_conceded, own_goals, penalties_saved, penalties_missed, yellow_cards, red_cards, saves, bonus, bps, influence, creativity, threat, ict_index, value, transfers_balance, selected, transfers_in, transfers_out
+element, fixture, opponent_team, total_points, was_home, kickoff_time, team_h_score, team_a_score, round, minutes, goals_scored, assists, clean_sheets, goals_conceded, own_goals, penalties_saved, penalties_missed, yellow_cards, red_cards, saves, bonus, bps, influence, creativity, threat, ict_index, value, transfers_balance, selected, transfers_in, transfers_out,
 338, 6, 2, 13, True, 2019-08-10T16:30:00Z, 3, 1, 1, 90, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 3, 50, 64.2, 24.1, 95.0, 18.3, 110, 0, 1591131, 0, 0, 
 338, 16, 11, 2, False, 2019-08-17T16:30:00Z, 2, 2, 2, 90, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 4, 0.4, 1.8, 4.0, 0.6, 110, -42147, 1784749, 115756, 157903, 
 338, 28, 13, 2, True, 2019-08-25T15:30:00Z, 0, 1, 3, 90, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0.0, 2.8, 8.0, 1.0, 110, 219781, 2082179, 329010, 109229, 
@@ -8,3 +8,5 @@ element, fixture, opponent_team, total_points, was_home, kickoff_time, team_h_sc
 338, 69, 16, 8, True, 2019-09-28T14:00:00Z, 2, 1, 7, 90, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 2, 30, 37.2, 1.3, 31.0, 7.0, 110, -4040, 1400676, 76232, 80272, 
 338, 72, 4, 2, False, 2019-10-05T11:30:00Z, 3, 0, 8, 90, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 6, 4.6, 28.8, 12.0, 4.5, 110, -28232, 1377432, 40325, 68557, 
 338, 89, 18, 2, True, 2019-10-19T14:00:00Z, 1, 1, 9, 90, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 4.0, 2.8, 44.0, 5.1, 109, -73103, 1311565, 45430, 118533, 
+338, 94, 10, 7, False, 2019-10-27T16:30:00Z, 2, 1, 10, 90, 1, 0, 0, 2, 0, 0, 0, 0, 0, 0, 1, 26, 34.8, 10.8, 19.0, 6.5, 109, -166271, 1142397, 8722, 174993, 
+338, 106, 8, 0, False, 2019-11-03T16:30:00Z, 1, 1, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.0, 0.0, 0.0, 0.0, 108, 3228, 1156773, 59610, 56382, 
