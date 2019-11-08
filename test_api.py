@@ -152,6 +152,6 @@ if __name__ == "__main__":
     # print(create_player_id_list(get_bootsttrap()))
     # output_player_fixtures()
     # output_player_fixture_difficulty()
-    # output_player_history()
+    output_player_history()
     # print(get_player_summary(1)['history_past'][0].keys())
     # output_player_history_past()
