@@ -1,3 +1,7 @@
 element, fixture, opponent_team, total_points, was_home, kickoff_time, team_h_score, team_a_score, round, minutes, goals_scored, assists, clean_sheets, goals_conceded, own_goals, penalties_saved, penalties_missed, yellow_cards, red_cards, saves, bonus, bps, influence, creativity, threat, ict_index, value, transfers_balance, selected, transfers_in, transfers_out,
 559, 96, 13, 0, False, 2019-10-27T14:00:00Z, 1, 1, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.0, 0.0, 0.0, 0.0, 45, 0, 0, 0, 0, 
 559, 101, 1, 0, False, 2019-11-02T15:00:00Z, 1, 1, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.0, 0.0, 0.0, 0.0, 45, 632, 954, 789, 157, 
+559, 120, 2, 0, True, 2019-11-10T14:00:00Z, 2, 1, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.0, 0.0, 0.0, 0.0, 45, 205, 1374, 455, 250, 
+559, 123, 3, 0, False, 2019-11-23T15:00:00Z, 1, 2, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.0, 0.0, 0.0, 0.0, 45, 609, 2326, 1021, 412, 
+559, 140, 15, 0, True, 2019-12-01T14:00:00Z, 1, 1, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.0, 0.0, 0.0, 0.0, 45, -147, 2322, 419, 566, 
+559, 146, 19, 0, True, 2019-12-04T19:30:00Z, 2, 0, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.0, 0.0, 0.0, 0.0, 45, 72, 2504, 318, 246, 
