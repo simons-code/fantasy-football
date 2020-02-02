@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c8fe0dc-308e-4e78-81d6-cc6011118f23" name="Default Changelist" comment="" />
+    <list default="true" id="8c8fe0dc-308e-4e78-81d6-cc6011118f23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/3_week_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +39,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_api">
+  <component name="RunManager" selected="Python.3_week_model">
+    <configuration name="3_week_model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FPLstats" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_week_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="playground" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FPLstats" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,6 +126,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3_week_model" />
         <item itemvalue="Python.test_api" />
         <item itemvalue="Python.playground" />
         <item itemvalue="Python.quickstart" />
