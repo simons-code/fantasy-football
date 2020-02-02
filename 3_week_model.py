@@ -1,3 +1,4 @@
+import warnings
 import test_api as api
 import os
 import numpy as np
@@ -24,15 +25,18 @@ def player_correlation_3_weeks_prior(path_to_player_hist):
             three_weeks_prior.append(prior_three_week_total)
             next_week.append(week_points)
         # print(np.corrcoef(three_weeks_prior, next_week))
+
         return np.corrcoef(three_weeks_prior, next_week)[0][1]
 
 if __name__ == "__main__":
-    correlations = []
-    for player in player_history_paths:
-        corr = player_correlation_3_weeks_prior(player)
-        # print(corr)
-        if corr >= 0 or corr <= 0 :
-            correlations.append(corr)
+    with warnings.catch_warnings():
+        warnings.simplefilter("ignore", category=RuntimeWarning)
+        correlations = []
+        for player in player_history_paths:
 
-    print(np.mean(correlations))
-    print(np.std(correlations))
+            corr = player_correlation_3_weeks_prior(player)
+            if corr >= 0 or corr <= 0 :
+                correlations.append(corr)
+
+        print(np.mean(correlations))
+        print(np.std(correlations))
